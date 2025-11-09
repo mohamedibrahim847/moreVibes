@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Django stuff
+__pycache__/
+db.sqlite3
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+*.log
+*.pyc
+
+
+# Node/npm stuff
+node_modules/
+package-lock.json
