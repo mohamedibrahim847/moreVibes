@@ -12,7 +12,7 @@ PLAN.txt
 
 # IDE settings
 .vscode/
-/DS_Store
+.DS_Store
 *.log
 *.pyc
 .cache/
