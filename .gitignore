@@ -1,5 +1,6 @@
 # Virtual environment
 venv/
+.venv/
 
 # Django stuff
 __pycache__/
@@ -11,9 +12,10 @@ PLAN.txt
 
 # IDE settings
 .vscode/
+/DS_Store
 *.log
 *.pyc
-
+.cache/
 
 # Node/npm stuff
 node_modules/
